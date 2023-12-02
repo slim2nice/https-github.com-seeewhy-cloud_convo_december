@@ -1,2 +1,16 @@
 Today is staurday
 the 2nd of December
+
+Download for Windows
+Click here to download the latest (2.43.0) 64-bit version of Git for Windows. This is the most recent maintained build. It was released 12 days ago, on 2023-11-20.
+
+Other Git for Windows downloads
+Standalone Installer
+32-bit Git for Windows Setup.
+
+64-bit Git for Windows Setup.
+
+Portable ("thumbdrive edition")
+32-bit Git for Windows Portable.
+
+64-bit Git for Windows Portable.
